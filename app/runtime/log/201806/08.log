@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-06-08T23:12:48+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=20bbac458e77bcd732056d4fd8fe06fc&uid=20bbac458e77bcd732056d4fd8fe06fc
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=20bbac458e77bcd732056d4fd8fe06fc&uid=20bbac458e77bcd732056d4fd8fe06fc [运行时间：1.061574s][吞吐率：0.94req/s] [内存消耗：2,000.15kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:191]

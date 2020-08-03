@@ -1,0 +1,256 @@
+---------------------------------------------------------------
+[ 2018-09-01T10:56:09+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.204100s][吞吐率：0.83req/s] [内存消耗：2,005.83kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:56:16+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.049092s][吞吐率：0.95req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:56:37+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.100375s][吞吐率：0.91req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:56:39+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.080325s][吞吐率：0.93req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:56:41+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.042582s][吞吐率：0.96req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:57:49+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.046408s][吞吐率：0.96req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:57:51+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.035403s][吞吐率：0.97req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:57:53+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.040746s][吞吐率：0.96req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:57:55+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.065317s][吞吐率：0.94req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:59:34+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.069681s][吞吐率：0.93req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:59:36+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.074898s][吞吐率：0.93req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:59:38+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.039916s][吞吐率：0.96req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:59:41+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.051677s][吞吐率：0.95req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:59:44+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.038893s][吞吐率：0.96req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:59:52+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.037711s][吞吐率：0.96req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:59:53+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.042653s][吞吐率：0.96req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T10:59:55+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.058752s][吞吐率：0.94req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:01:25+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.048212s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:01:31+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.049612s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:01:53+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.047557s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:02:40+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.092038s][吞吐率：0.92req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:02:43+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.057139s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:02:45+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.030311s][吞吐率：0.97req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:02:47+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.070251s][吞吐率：0.93req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:02:48+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.048690s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:02:51+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.031895s][吞吐率：0.97req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:02:53+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.041602s][吞吐率：0.96req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:09:22+08:00 ] 58.16.228.22 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24 [运行时间：1.101856s][吞吐率：0.91req/s] [内存消耗：2,006.12kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:09:40+08:00 ] 58.16.228.22 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24 [运行时间：1.066744s][吞吐率：0.94req/s] [内存消耗：2,006.12kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:09:43+08:00 ] 58.16.228.22 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24 [运行时间：1.055337s][吞吐率：0.95req/s] [内存消耗：2,006.12kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:10:20+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.035539s][吞吐率：0.97req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:10:22+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.045878s][吞吐率：0.96req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:11:29+08:00 ] 58.16.228.22 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24 [运行时间：1.049492s][吞吐率：0.95req/s] [内存消耗：2,006.12kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:11:32+08:00 ] 58.16.228.22 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=9c971c5127d3549527dde0bbee9f0a24&uid=9c971c5127d3549527dde0bbee9f0a24 [运行时间：1.067729s][吞吐率：0.94req/s] [内存消耗：2,006.12kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:29:07+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=1e98322dff5b308b14557c14efc147f1&uid=1e98322dff5b308b14557c14efc147f1 [运行时间：1.092617s][吞吐率：0.92req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:37:29+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.067273s][吞吐率：0.94req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:37:33+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.040940s][吞吐率：0.96req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:37:36+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.048090s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:37:38+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.048292s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:37:41+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.040331s][吞吐率：0.96req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:37:44+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.026541s][吞吐率：0.97req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:37:51+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.101210s][吞吐率：0.91req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:37:54+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.071773s][吞吐率：0.93req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:37:58+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.060586s][吞吐率：0.94req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:38:14+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.050197s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:38:18+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.055583s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:38:25+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.047396s][吞吐率：0.95req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:38:47+08:00 ] 211.92.138.60 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=61ad9d6e0df8785a891775c198342912&uid=61ad9d6e0df8785a891775c198342912 [运行时间：1.061981s][吞吐率：0.94req/s] [内存消耗：2,005.78kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:53:04+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.091283s][吞吐率：0.92req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:53:07+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.047454s][吞吐率：0.95req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:53:13+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.029949s][吞吐率：0.97req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:54:14+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.080085s][吞吐率：0.93req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:54:18+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.087254s][吞吐率：0.92req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:56:40+08:00 ] 58.16.63.158 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.072593s][吞吐率：0.93req/s] [内存消耗：2,074.55kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5094e6e9225611c54851b1ad4a5bb289' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-01T11:56:42+08:00 ] 58.16.63.158 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.046051s][吞吐率：0.96req/s] [内存消耗：2,074.55kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5094e6e9225611c54851b1ad4a5bb289' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-01T11:56:43+08:00 ] 58.16.63.158 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.048450s][吞吐率：0.95req/s] [内存消耗：2,074.55kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5094e6e9225611c54851b1ad4a5bb289' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-01T11:56:43+08:00 ] 58.16.63.158 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.066038s][吞吐率：0.94req/s] [内存消耗：2,074.55kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5094e6e9225611c54851b1ad4a5bb289' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-01T11:56:43+08:00 ] 58.16.63.158 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.060765s][吞吐率：0.94req/s] [内存消耗：2,074.55kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5094e6e9225611c54851b1ad4a5bb289' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-01T11:56:47+08:00 ] 58.16.63.158 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.063302s][吞吐率：0.94req/s] [内存消耗：2,074.55kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5094e6e9225611c54851b1ad4a5bb289' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-01T11:56:58+08:00 ] 58.16.63.158 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.066632s][吞吐率：0.94req/s] [内存消耗：2,074.55kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'b48084f586bb304982f66b56c749ea8d' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-01T11:56:58+08:00 ] 58.16.63.158 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.065333s][吞吐率：0.94req/s] [内存消耗：2,074.55kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'b48084f586bb304982f66b56c749ea8d' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-01T11:56:59+08:00 ] 58.16.63.158 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.065999s][吞吐率：0.94req/s] [内存消耗：2,074.55kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'b48084f586bb304982f66b56c749ea8d' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-01T11:57:48+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.039545s][吞吐率：0.96req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2018-09-01T11:57:50+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=5094e6e9225611c54851b1ad4a5bb289&uid=ada75963e8ac95a65706cbc89294b77d&uid=ada75963e8ac95a65706cbc89294b77d [运行时间：1.052483s][吞吐率：0.95req/s] [内存消耗：2,005.84kb] [文件加载：54]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[C:\web\sh\vendor\topthink\framework\library\think\response\Json.php:39]

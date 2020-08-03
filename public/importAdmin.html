@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="./static/layui/css/layui.css">
+    <style>
+        .nav_1{
+
+            height:30px;
+            background-color:black;
+            font-size: 20px ;
+            padding: 10px ;
+
+
+        }
+        a{
+            color: white;
+            text-decoration:none;
+            padding: 10px ;
+        }
+        .a2{
+            margin-left: 888px ;
+        }
+        .first{
+            margin-top: 30px ;
+            border-bottom: none;
+            border-right:none;
+            border-left:none;
+        }
+        .upload{
+            margin-left: 40px ;
+        }
+    </style>
+</head>
+<body>
+<!--导航-->
+<div class="nav_1">
+    <nav class="nav_1_1">
+        <a href="" class="a1">作业系统</a>
+        <a href="" class="a1">发布</a>
+        <a href="" class="a1">添加班级</a>
+        <a class="a2" onclick="">退出</a>
+    </nav>
+</div>
+<!--表单元素-->
+<fieldset class="first">
+    <legend><span style="font-weight:300;font-size: 20px;">添加班级</span></legend>
+</fieldset>
+<!--form表单-->
+<form class="layui-form" action="http://sh.gzcjdx.cn/index.php/user/importAdmin" method="post" enctype="multipart/form-data">
+    <div class="layui-form-item">
+        <h1  >请选择管理员表格（学号+姓名）</h1>
+        <br>
+        <!--上传文件-->
+        <input type="file" name="admin"  class="upload" style="margin-left:25px;padding:50px;cursor: pointer;height:20px;">
+        <button class="layui-btn layui-btn-normal layui-btn-radius" type="submit" value="提交" style="margin-left:70px;">提交</button>
+    </div>
+</form>
+</body>
+</html>

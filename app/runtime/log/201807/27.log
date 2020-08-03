@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-07-27T19:02:58+08:00 ] 58.16.63.162 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.746168s][吞吐率：0.57req/s] [内存消耗：2,074.29kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ccc1c40c97e382eb83cb8d888667369a' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]

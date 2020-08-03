@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<!-- saved from url=(0035)http://sh.gzcjdx.cn/public/av2.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>报名首页</title>
+    <script src="./js/jquery.min.js"></script>
+    <script src="./static/layui/layui.all.js"></script>
+    <link rel="stylesheet" href="./static/layui/css/layui.css">
+    <link rel="stylesheet" href="./css/common.css">
+</head>
+<body>
+<div class="layui-container-fluid">
+    <!--标题-->
+    <div id="sh-header">
+        <ul class="layui-nav layui-bg-black">
+            <li class="layui-nav-item"><a href="http://sh.gzcjdx.cn/public/index.html">作业系统</a></li>
+            <li class="layui-nav-item"><a href="http://sh.gzcjdx.cn/public/av2.html#" id="s-add">发布</a></li>
+            <li class="layui-nav-item"><a href="">修改密码</a></li>
+            <li class="layui-nav-item layui-layout-right">
+                <a href="http://sh.gzcjdx.cn/public/work.html">返回</a>
+            </li>
+        </ul>
+    </div>
+
+
+
+
+
+    <!--修改密码-->
+    <fieldset class="layui-elem-field layui-field-title ">
+        <legend><a name="color-design">修改密码</a> </legend>
+    </fieldset>
+    <!--<form action="http://www.baidu.com" method="post" enctype="multipart/form-data">-->
+    <div class="layui-form-item">
+        <label class="layui-form-label sh-form-lable">学号</label>
+        <div>
+            <input type="text" name="title" id="number" required="" lay-verify="required" placeholder="请输入学号" autocomplete="on" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label sh-form-lable">姓名</label>
+        <div>
+            <input type="text" name="title" required="" id="stu-name" lay-verify="required" placeholder="输入名字" autocomplete="on" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label sh-form-lable">原密码</label>
+        <div>
+            <input type="password" name="login_passwork" id="old-pswd" lay-verify="required" placeholder="请输入旧密码" autocomplete="off" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label sh-form-lable">新密码</label>
+        <div>
+            <input type="password" name="password" id="new-pswd" placeholder="请输入新密码" autocomplete="off" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label sh-form-lable">确认密码</label>
+        <div>
+            <input type="password" name="relogin_passwork" id="ok-pswd" placeholder="请再次输入新密码" autocomplete="off" class="layui-input">
+        </div>
+    </div>
+    <button class="layui-btn layui-btn-normal layui-btn-radius" onclick="sent()" style="width:100%;">确认</button>
+    <!--</form>-->
+    <script>
+        //        获取输入框中的内容
+        //         发送到服务器，服务器返回成功修改密码.
+        function sent() {
+            var xuehao=$('#number').val();
+            var old_password=$('#old-pswd').val();
+            var new_password=$('#new-pswd').val();
+            var ok_passwoed=$('#ok-pswd').val();
+            if(new_password===old_password){
+                layer.msg('新密码与原密码相同');
+            }
+            if(new_password!==ok_passwoed){
+                layer.msg('输入的两次密码不一致');
+            }
+            $.post('http://sh.gzcjdx.cn/index.php/user/reset',{stu_no:xuehao,login_pwd:old_password,new_login_pwd:new_password},function (res){
+                if(res.errno===0){
+                    layer.msg('修改密码成功');
+                    setInterval(function () {
+                        location.href='http://sh.gzcjdx.cn/public/work.html';
+                },31000);
+                }
+                else{
+                    layer.msg('修改密码失败');
+                }
+            });
+        }
+
+
+    </script>
+</div>
+</body>
+</html>

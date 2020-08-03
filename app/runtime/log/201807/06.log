@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2018-07-06T17:50:53+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=454513a86e256c20f69f289818203a88&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=454513a86e256c20f69f289818203a88&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3 [运行时间：1.696173s][吞吐率：0.59req/s] [内存消耗：2,000.43kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:190]
+---------------------------------------------------------------
+[ 2018-07-06T17:51:03+08:00 ] 58.16.63.162 POST /index.php/work/uploadAutoRename?wid=454513a86e256c20f69f289818203a88&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=454513a86e256c20f69f289818203a88&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3 [运行时间：1.074024s][吞吐率：0.93req/s] [内存消耗：2,000.44kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:190]
+---------------------------------------------------------------
+[ 2018-07-06T19:13:46+08:00 ] 58.16.63.162 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.723356s][吞吐率：0.58req/s] [内存消耗：2,074.23kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'a3c30c5799aba7471995c60e5e6fda5e' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]

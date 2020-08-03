@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="./js/jquery.min.js"></script>
+</head>
+<body>
+<!--http://sh.gzcjdx.cn/index.php/index/done-->
+<table id="d">
+</table>
+</body>
+<script>
+//    <!--1.先向服务器发送请求-->
+//    2.获得服务器发送的回来的数据后，依据数据类型对其进行遍历
+//    3.将其加到HTML中并显示出来
+    $.post("http://sh.gzcjdx.cn/index.php/work/uploadInfo?wid=81be0ccaa2907b0b61ced76cd504ebac&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29&type=hasUpload",{
+        wid:"81be0ccaa2907b0b61ced76cd504ebac1",
+        uid:"da7bd0d19a96acad3a6d9ebb3bb2ae29",
+        type:"hasUpload"},function(res) {
+//        console.log(res);
+         var data=res.data;
+         var i=0;
+         var t1='';
+         for(i;i<data.length;i++)
+         {
+             var title=data[i].file_path;
+             t1+="<tr><td>"+title+"<td><tr>";
+             $("#d").html(t1);
+         }
+})
+
+</script>
+</html>

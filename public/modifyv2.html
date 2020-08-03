@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>修改作业</title>
+    <link rel="stylesheet" href="./static/layui/css/layui.css">
+    <link rel="stylesheet" href="./css/common.css">
+</head>
+<body>
+<div class="layui-container-fluid">
+    <!--标题-->
+    <div id="sh-header"></div>
+
+    <div class="sh-body">
+        <fieldset class="layui-elem-field layui-field-title ">
+            <legend><a name="color-design">修改作业</a></legend>
+        </fieldset>
+        <div class="layui-form">
+            <div class="layui-form-item">
+                <label class="layui-form-label sh-form-lable">班级</label>
+                <div>
+                    <input  disabled value="你当前所在的班级" type="text"  id="class-name" class="layui-input">
+                </div>
+            </div>
+            <input type="hidden"  name="pk_homeworks" id="w-id">
+            <div class="layui-form-item">
+                <label class="layui-form-label sh-form-lable">作业名称</label>
+                <div>
+                    <input id="w-name" type="text" name="title" required lay-verify="required" placeholder="学号用于自动命名,请勿填错"
+                           autocomplete="on" class="layui-input">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label sh-form-lable">命名规则</label>
+                <div>
+                    <input id="w-rule" type="text" name="auto_name_rule" required lay-verify="required" placeholder="姓名用于自动命名,请勿填错"
+                           autocomplete="on" class="layui-input" value="ABCD">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label sh-form-lable">作业描述</label>
+                <div>
+                    <textarea name="desc" placeholder="请输入内容" class="layui-textarea" id="w-desc"></textarea>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label sh-form-lable">截止日期</label>
+
+                <div>
+                    <input  type="text" name="end_time" required lay-verify="required"
+                           autocomplete="on" class="layui-input" id="end_time">
+                </div>
+            </div>
+            <button class="layui-btn layui-btn-fluid" lay-submit lay-filter="addwork">确认修改</button>
+        </div>
+    </div>
+
+    <div id="sh-footer"></div>
+
+
+</div>
+
+<script src="./js/commonv2.js"></script>
+<script src="./static/layui/layui.js"></script>
+<script>
+    layui.config({
+        base: './js/'
+    }).extend({
+        shmodulev2: 'shmodulev2'
+    }).use(['element', 'layer', 'jquery', 'form', 'laydate', 'shmodulev2'], function () {
+        let $ = layui.jquery, layer = layui.layer, form = layui.form, laydate = layui.laydate;
+        let init=layer.load(1);
+        $.get(api.detail + workapiqueryparams, function (res) {
+            let wnameC=$('#w-name');
+            let wruleC=$('#w-rule');
+            let wdescC=$('#w-desc');
+            let widC=$('#w-id');
+            let data=res.data;
+            if(data){
+                wnameC.val(data.title);
+                wruleC.val(data.auto_name_rule);
+                wdescC.val(data.desc);
+                widC.val(data.pk_homeworks);
+                $.get(api.classv2+userapiqueryparams, function (res) {
+                    if (res.errno === 0) {
+                        $('#class-name').val(res.data['class_name']);
+                        form.render();
+                    }else{
+                        layer.msg('无法获取班级');
+                    }
+                    layer.close(init);
+                });
+
+            }
+        });
+        laydate.render({
+            elem: '#end_time' //指定元素
+            , type: 'datetime'
+        });
+        form.on('submit(addwork)', function (data) {
+            form.render();
+            let formData = data.field;
+//            return console.log(formData);
+            $.post(api.modifySchoolWorkv2+userapiqueryparams, formData, function (res) {
+                if (res.errno === 0) {
+                    layer.alert('修改成功', function () {
+                        location.href = pages.home;
+                    });
+                }
+            })
+
+        });
+
+
+
+    });
+
+</script>
+</body>
+</html>

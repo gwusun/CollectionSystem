@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>管理中心</title>
+    <link rel="stylesheet" href="./static/layui/css/layui.css">
+    <link rel="stylesheet" href="./css/common.css">
+</head>
+<body>
+<div class="layui-container-fluid">
+    <!--标题-->
+
+    <div id="sh-header"></div>
+    <div class="ly-index-body">
+
+        <fieldset class="layui-elem-field layui-field-title ">
+            <legend><a name="color-design">进行中</a></legend>
+        </fieldset>
+        <div class="layui-row layui-col-space5" id="doing">
+            <div id="vue">
+                <table  class="layui-table">
+                    <tr v-for="item in items">
+                        <td ><button class="layui-btn layui-btn-fluid">{{item.title}}</button></td>
+                        <td @click="aler">
+                            <button  class="layui-btn layui-btn-danger">删除</button> </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <fieldset class="layui-elem-field layui-field-title site-title">
+            <legend><a name="color-design">已删除</a></legend>
+        </fieldset>
+        <div class="layui-row layui-col-space5" id="done">
+
+        </div>
+    </div>
+
+    <div id="sh-footer"></div>
+</div>
+<script src="./js/common.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
+<script>
+    let vue = new Vue({
+        el: '#vue',
+        data: {
+            title: '闪电借款水电费',
+            items: [
+                {
+                    id: '1',
+                    title: 'sfsdf'
+                },
+                {
+                    id: '1',
+                    title: 'sfs2222222df'
+                }
+            ]
+        },
+        methods: {
+            aler: function ($event) {
+                console.log($event);
+            }
+
+        }
+    });
+
+</script>
+</body>
+</html>

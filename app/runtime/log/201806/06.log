@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-06-06T15:21:27+08:00 ] 58.16.63.158 POST /index.php/user/importAdmin
+[ info ] sh.gzcjdx.cn/index.php/user/importAdmin [运行时间：0.237314s][吞吐率：4.21req/s] [内存消耗：5,937.60kb] [文件加载：109]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2159baefc06710be116e73f0ada041c9' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]

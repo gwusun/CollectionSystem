@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="./js/jquery.min.js"></script>
+</head>
+<body>
+
+<ul id="done">
+    <!--  <li>diyi</li>
+      <li>di二次</li>-->
+</ul>
+
+<table></table>
+
+<script>
+    //    http://sh.gzcjdx.cn/index.php/index/done
+
+    $.post("http://sh.gzcjdx.cn/index.php/index/done", function (res) {
+        let targetArr=res.data;
+        let lis='';
+        targetArr.forEach(function (val) {
+            let title=val.title;
+            lis+=`<li>${title}</li>`
+
+        });
+        $("#done").html(lis);
+    })
+</script>
+</body>
+</html>

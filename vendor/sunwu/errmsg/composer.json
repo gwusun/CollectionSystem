@@ -1,0 +1,19 @@
+{
+  "name": "sunwu/errmsg",
+  "description": "The definition of errno and errmsg",
+  "type": "library",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "sunwu",
+      "email": "1228746736@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Sunwu\\Errmsg\\": "lib"
+    }
+  }
+}

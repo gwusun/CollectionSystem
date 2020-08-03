@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2018-07-19T11:09:16+08:00 ] 221.13.1.165 GET /index.php/work/downloadZip?wid=8b2b38b2f0bd5221e7c3125d04b897d8&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=8b2b38b2f0bd5221e7c3125d04b897d8&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：1.252243s][吞吐率：0.80req/s] [内存消耗：2,001.17kb] [文件加载：53]
+[ error ] [8]未定义数组索引: �[C:\web\sh\app\controller\Work.php:261]
+---------------------------------------------------------------
+[ 2018-07-19T11:09:44+08:00 ] 221.13.1.165 GET /index.php/work/downloadZip?wid=8b2b38b2f0bd5221e7c3125d04b897d8&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=8b2b38b2f0bd5221e7c3125d04b897d8&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：1.037673s][吞吐率：0.96req/s] [内存消耗：2,001.18kb] [文件加载：53]
+[ error ] [8]未定义数组索引: �[C:\web\sh\app\controller\Work.php:261]

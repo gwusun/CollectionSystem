@@ -1,0 +1,128 @@
+---------------------------------------------------------------
+[ 2018-06-18T09:08:57+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=4f6bd58ed56b96a01ebf8b56a8ce0278&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=4f6bd58ed56b96a01ebf8b56a8ce0278&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29 [运行时间：95.669563s][吞吐率：0.01req/s] [内存消耗：2,104.15kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-06-18T09:10:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=11d1a4489259fba2e2bd546f0c5fb6b1&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=11d1a4489259fba2e2bd546f0c5fb6b1&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29 [运行时间：83.476606s][吞吐率：0.01req/s] [内存消耗：2,104.34kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-06-18T10:20:22+08:00 ] 223.104.95.180 GET /index.php/work/downloadZip?wid=fccdeff4ac4e78872b39a1e9d782d6d0&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=fccdeff4ac4e78872b39a1e9d782d6d0&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29 [运行时间：82.249553s][吞吐率：0.01req/s] [内存消耗：2,104.45kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-06-18T10:47:12+08:00 ] 223.104.95.180 GET /index.php/work/downloadZip?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29 [运行时间：24.028671s][吞吐率：0.04req/s] [内存消耗：249,834.04kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 112164520 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T10:47:12+08:00 ] 223.104.95.180 GET /index.php/work/downloadZip?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29 [运行时间：19.987835s][吞吐率：0.05req/s] [内存消耗：249,833.96kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 112164520 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T10:47:47+08:00 ] 223.104.95.180 GET /index.php/work/downloadZip?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29 [运行时间：10.491247s][吞吐率：0.10req/s] [内存消耗：249,833.80kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 112164520 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T10:49:54+08:00 ] 223.104.95.180 GET /index.php/work/downloadZip?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=be31750f6eed6df20179e55e9d2f1a6b&uid=da7bd0d19a96acad3a6d9ebb3bb2ae29 [运行时间：10.281226s][吞吐率：0.10req/s] [内存消耗：249,833.80kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 112164520 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T11:34:39+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=6304c2d6e82bcfd67bc0f7b390907a8b&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6304c2d6e82bcfd67bc0f7b390907a8b&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3 [运行时间：1.130512s][吞吐率：0.88req/s] [内存消耗：2,000.05kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:190]
+---------------------------------------------------------------
+[ 2018-06-18T13:17:59+08:00 ] 58.16.63.162 POST /index.php/admin/addSchoolWorkv2
+[ info ] sh.gzcjdx.cn/index.php/admin/addSchoolWorkv2 [运行时间：1.158555s][吞吐率：0.86req/s] [内存消耗：2,074.34kb] [文件加载：54]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'd116fcfbddcdae36e597f3c1d4243fae' for key 'PRIMARY'[C:\web\sh\vendor\topthink\framework\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-06-18T21:27:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：17.954260s][吞吐率：0.06req/s] [内存消耗：225,248.58kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:27:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：22.953211s][吞吐率：0.04req/s] [内存消耗：225,248.62kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:28:12+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：11.408512s][吞吐率：0.09req/s] [内存消耗：225,248.46kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:28:33+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：21.131267s][吞吐率：0.05req/s] [内存消耗：225,248.66kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:28:36+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：22.073185s][吞吐率：0.05req/s] [内存消耗：225,248.66kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:28:43+08:00 ] 58.246.221.163 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：14.947701s][吞吐率：0.07req/s] [内存消耗：225,248.23kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:30:28+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：11.187409s][吞吐率：0.09req/s] [内存消耗：225,248.46kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:35:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：19.016523s][吞吐率：0.05req/s] [内存消耗：225,248.62kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:35:22+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：18.261964s][吞吐率：0.05req/s] [内存消耗：225,248.62kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:36:15+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：16.943272s][吞吐率：0.06req/s] [内存消耗：225,248.58kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:36:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：17.085029s][吞吐率：0.06req/s] [内存消耗：225,248.58kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:36:52+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：10.375525s][吞吐率：0.10req/s] [内存消耗：225,248.46kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:38:33+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：11.028915s][吞吐率：0.09req/s] [内存消耗：225,248.46kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:53:37+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=026793f91d69a4a932d6dc5b5d19edb8&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：10.707370s][吞吐率：0.09req/s] [内存消耗：225,248.46kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 106104432 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-06-18T21:56:23+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=d1835e5f23e48e27b4f4abbec564ae35&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=d1835e5f23e48e27b4f4abbec564ae35&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：302.516263s][吞吐率：0.00req/s] [内存消耗：2,106.78kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-06-18T21:56:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=4f7c75a26ecdf067c8675f7a7ef5bcc5&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=4f7c75a26ecdf067c8675f7a7ef5bcc5&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：225.313091s][吞吐率：0.00req/s] [内存消耗：2,101.77kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-06-18T21:57:55+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=47040f2d761cd33bd699836e53b075f2&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=47040f2d761cd33bd699836e53b075f2&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：356.937620s][吞吐率：0.00req/s] [内存消耗：2,102.10kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-06-18T22:02:16+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=47040f2d761cd33bd699836e53b075f2&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=47040f2d761cd33bd699836e53b075f2&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：223.673472s][吞吐率：0.00req/s] [内存消耗：2,102.14kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-06-18T22:08:06+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=4e4c271a2c213e04dc4616e82fd57d3b&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=4e4c271a2c213e04dc4616e82fd57d3b&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：453.360335s][吞吐率：0.00req/s] [内存消耗：2,102.06kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-06-18T22:20:08+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=47040f2d761cd33bd699836e53b075f2&uid=a71fda60d50336ec99cd7e1c311268b8
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=47040f2d761cd33bd699836e53b075f2&uid=a71fda60d50336ec99cd7e1c311268b8 [运行时间：99.302667s][吞吐率：0.01req/s] [内存消耗：2,101.91kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-06-18T22:35:02+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=6304c2d6e82bcfd67bc0f7b390907a8b&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6304c2d6e82bcfd67bc0f7b390907a8b&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3 [运行时间：1.126268s][吞吐率：0.89req/s] [内存消耗：2,000.09kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:190]
+---------------------------------------------------------------
+[ 2018-06-18T22:35:04+08:00 ] 58.16.63.158 POST /index.php/work/uploadAutoRename?wid=6304c2d6e82bcfd67bc0f7b390907a8b&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6304c2d6e82bcfd67bc0f7b390907a8b&uid=dba4cd8ba24f96e64ec909f0a46238a3&uid=dba4cd8ba24f96e64ec909f0a46238a3 [运行时间：1.058205s][吞吐率：0.94req/s] [内存消耗：2,000.09kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:190]
+---------------------------------------------------------------
+[ 2018-06-18T23:22:30+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=3e1738087967a354c4d3897ce79f3c11&uid=4b2c2281ba70f4cbd119ad9c73332e28
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=3e1738087967a354c4d3897ce79f3c11&uid=4b2c2281ba70f4cbd119ad9c73332e28 [运行时间：208.715158s][吞吐率：0.00req/s] [内存消耗：2,103.49kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]

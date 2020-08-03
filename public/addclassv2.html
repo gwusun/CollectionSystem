@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="./static/layui/css/layui.css">
+    <style>
+        .nav_1{
+
+            height:30px;
+            background-color:black;
+            font-size: 20px ;
+            padding: 10px ;
+
+
+        }
+        a{
+            color: white;
+            text-decoration:none;
+            padding: 10px ;
+        }
+        .a2{
+            margin-left: 888px ;
+        }
+        .first{
+            margin-top: 30px ;
+            border-bottom: none;
+            border-right:none;
+            border-left:none;
+        }
+        .upload{
+            margin-left: 40px ;
+        }
+    </style>
+    <script src="./js/commonv2.js"></script>
+</head>
+<body>
+<!--导航-->
+<div class="nav_1">
+    <nav class="nav_1_1">
+        <a href="" class="a1">作业系统</a>
+        <a href="" class="a1">发布</a>
+        <a href="" class="a1">添加班级</a>
+        <a class="a2" onclick="">退出</a>
+    </nav>
+</div>
+<!--表单元素-->
+<fieldset class="first">
+    <legend><span style="font-weight:300;font-size: 20px;">添加班级</span></legend>
+</fieldset>
+<!--form表单-->
+<form class="layui-form" action="http://192.168.5.220:9901/index.php/user/addClassAndList" method="post" enctype="multipart/form-data">
+    <div class="layui-form-item">
+        <label class="layui-form-label">班级名称</label>
+        <div class="layui-input-block">
+            <!--你看一下的的name  -->
+            <input type="text" name="classname"  value="15测试" autocomplete="off" placeholder="请输入班级如：16级电子商务1班" class="layui-input" style="width: 300px;">
+        </div>
+        <br>
+        <br>
+        <!--上传文件-->
+        <input type="file" name="stulists"  class="upload" style="margin-left:25px;padding:50px;cursor: pointer;height:20px;">
+        <br>
+        <br>
+        <!--注意事项-->
+        <label class="layui-form-label" style="margin-left:40px;color:red;font-size:18px">注意事项</label>
+        <div class="layui-input-block" style="border: 1px dashed black;width:300px;margin-left: 140px">
+            <p style="font-weight: bold;font-size: 15px">添加班级时，务必上传本班全体人员的名单，<strong style="color: red;text-decoration:underline">名单内必须直接由学号（即阿拉伯数字）、姓名（即中文）构成,</strong>切记不要以“学号”或“姓名”作为列名.</p>
+        </div>
+        <br>
+        <br>
+        <br>
+        <!--提交名单-->
+        <button class="layui-btn layui-btn-normal layui-btn-radius" type="submit" value="提交" style="margin-left:70px;">提交</button>
+    </div>
+</form>
+</body>
+</html>

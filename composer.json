@@ -1,0 +1,16 @@
+{
+    "name": "sunwu/sh",
+    "description":"作业Server",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "sunwu",
+            "email": "1228746736@qq.com"
+        }
+    ],
+    "require": {
+        "topthink/framework": "5.0.15",
+        "sunwu/errmsg":"@dev",
+        "phpoffice/phpspreadsheet": "^1.1"
+    }
+}

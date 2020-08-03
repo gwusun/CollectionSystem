@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[ 2018-06-01T21:59:25+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36 [运行时间：0.185340s][吞吐率：5.40req/s] [内存消耗：2,001.38kb] [文件加载：53]
+[ error ] [8]未定义数组索引: �[C:\web\sh\app\controller\Work.php:271]
+---------------------------------------------------------------
+[ 2018-06-01T21:59:26+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36 [运行时间：0.093291s][吞吐率：10.72req/s] [内存消耗：2,001.38kb] [文件加载：53]
+[ error ] [8]未定义数组索引: �[C:\web\sh\app\controller\Work.php:271]
+---------------------------------------------------------------
+[ 2018-06-01T21:59:27+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36 [运行时间：0.044497s][吞吐率：22.47req/s] [内存消耗：2,001.38kb] [文件加载：53]
+[ error ] [8]未定义数组索引: �[C:\web\sh\app\controller\Work.php:271]
+---------------------------------------------------------------
+[ 2018-06-01T22:04:26+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36 [运行时间：0.052035s][吞吐率：19.22req/s] [内存消耗：2,001.10kb] [文件加载：53]
+[ error ] [8]未定义数组索引: �[C:\web\sh\app\controller\Work.php:271]
+---------------------------------------------------------------
+[ 2018-06-01T22:07:29+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36 [运行时间：0.042548s][吞吐率：23.50req/s] [内存消耗：2,001.10kb] [文件加载：53]
+[ error ] [8]未定义数组索引: �[C:\web\sh\app\controller\Work.php:271]
+---------------------------------------------------------------
+[ 2018-06-01T22:07:36+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36 [运行时间：0.040898s][吞吐率：24.45req/s] [内存消耗：2,001.10kb] [文件加载：53]
+[ error ] [8]未定义数组索引: �[C:\web\sh\app\controller\Work.php:271]
+---------------------------------------------------------------
+[ 2018-06-01T22:37:10+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=db87b493c8c2322066892bd28641afaa&uid=9b29ae40efbde358bb16bc233dcb5e36 [运行时间：0.047127s][吞吐率：21.22req/s] [内存消耗：2,000.86kb] [文件加载：53]
+[ error ] [8]未定义数组索引: �[C:\web\sh\app\controller\Work.php:271]

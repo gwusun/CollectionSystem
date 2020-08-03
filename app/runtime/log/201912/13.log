@@ -1,0 +1,44 @@
+---------------------------------------------------------------
+[ 2019-12-13T07:59:19+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.029307s][吞吐率：34.12req/s] [内存消耗：804.04kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T07:59:28+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.021700s][吞吐率：46.08req/s] [内存消耗：804.05kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T07:59:29+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.018990s][吞吐率：52.66req/s] [内存消耗：804.05kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T07:59:50+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.019454s][吞吐率：51.40req/s] [内存消耗：804.04kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T07:59:55+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.023370s][吞吐率：42.79req/s] [内存消耗：804.04kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T08:01:11+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.023629s][吞吐率：42.32req/s] [内存消耗：804.05kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T08:01:20+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.022333s][吞吐率：44.78req/s] [内存消耗：804.05kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T08:01:27+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.021217s][吞吐率：47.13req/s] [内存消耗：804.04kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T08:01:31+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.018452s][吞吐率：54.19req/s] [内存消耗：804.04kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T08:01:35+08:00 ] 58.59.0.54 POST /index.php/?s=index/index
+[ info ] 111.231.191.236/index.php/?s=index/index [运行时间：0.019519s][吞吐率：51.23req/s] [内存消耗：804.03kb] [文件加载：31]
+[ error ] [2]phpinfo() expects parameter 1 to be integer, string given[C:\web\sh\vendor\topthink\framework\library\think\Request.php:1065]
+---------------------------------------------------------------
+[ 2019-12-13T13:13:00+08:00 ] 220.197.163.176 GET /index.php/work/downloadZip?wid=502d235461c96dcb4798b4f9e8545473&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] 111.231.191.236/index.php/work/downloadZip?wid=502d235461c96dcb4798b4f9e8545473&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：54.332239s][吞吐率：0.02req/s] [内存消耗：2,107.61kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]

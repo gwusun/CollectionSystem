@@ -1,0 +1,89 @@
+<script>
+    location.href="./indexv2.html";
+</script>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content=“IE=8″>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>首页</title>
+    <link rel="stylesheet" href="./static/layui/css/layui.css">
+    <link rel="stylesheet" href="./css/common.css">
+</head>
+<body>
+<div class="layui-container-fluid">
+    <!--标题-->
+
+    <div id="sh-header"></div>
+    <div class="ly-index-body">
+
+        <fieldset class="layui-elem-field layui-field-title ">
+            <legend><a name="color-design">进行中的作业</a></legend>
+        </fieldset>
+        <div class="layui-row layui-col-space5" id="doing">
+
+        </div>
+
+        <fieldset class="layui-elem-field layui-field-title site-title">
+            <legend><a name="color-design">历史记录</a></legend>
+        </fieldset>
+        <div class="layui-row layui-col-space5" id="done">
+
+        </div>
+    </div>
+
+    <div id="sh-footer"></div>
+</div>
+
+<script src="./static/layui/layui.js"></script>
+<script src="./js/common.js"></script>
+<script>
+
+    layui.config({
+        base: './js/'
+    }).extend({
+        smod: 'smod'
+    }).use(['element', 'layer', 'jquery', 'form', 'smod'], function () {
+        let $ = layui.jquery, layer = layui.layer, form = layui.form, smod = layui.smod;
+
+        //获取进行中
+        let doingContainer = $('#doing');
+        let doneContainer = $('#done');
+        let doingL = layer.load();
+        $.get(api.doing, function (res) {
+
+            let items = '';
+            if (res.errno === 0) {
+                res.data.forEach(function (val) {
+                    items += tpl_sh.doingItem(val.pk_homeworks, val.title, timestamptostr(val.end_time));
+                });
+                doingContainer.html(items);
+            } else {
+                doingContainer.html(tpl_sh.nonWork());
+            }
+            layer.close(doingL);
+        });
+
+        let doneL = layer.load();
+        $.get(api.done, function (res) {
+
+            let items = '';
+            if (res.errno === 0) {
+                res.data.forEach(function (val) {
+                    items += tpl_sh.doneItem(val.pk_homeworks, val.title, timestamptostr(val.create_time));
+                });
+                doneContainer.html(items);
+            } else {
+                doneContainer.html(tpl_sh.nonWork());
+            }
+            layer.close(doneL);
+        })
+    });
+
+
+</script>
+</body>
+</html>

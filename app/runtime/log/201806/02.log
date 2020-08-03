@@ -1,0 +1,248 @@
+---------------------------------------------------------------
+[ 2018-06-02T13:23:45+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.116963s][吞吐率：8.55req/s] [内存消耗：1,999.87kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:23:48+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.039471s][吞吐率：25.34req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:23:49+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.044149s][吞吐率：22.65req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:23:49+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.040855s][吞吐率：24.48req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:23:50+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.038188s][吞吐率：26.19req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:23:50+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.037061s][吞吐率：26.98req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:23:50+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.036245s][吞吐率：27.59req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:23:56+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.047890s][吞吐率：20.88req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:24:06+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.042980s][吞吐率：23.27req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:25:06+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.041892s][吞吐率：23.87req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:25:07+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.045501s][吞吐率：21.98req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:25:07+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.045861s][吞吐率：21.81req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:01+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.049101s][吞吐率：20.37req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:02+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.042020s][吞吐率：23.80req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:02+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.043157s][吞吐率：23.17req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:02+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.037948s][吞吐率：26.35req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:03+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.046234s][吞吐率：21.63req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:03+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.039251s][吞吐率：25.48req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:03+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.049467s][吞吐率：20.22req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:03+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.039515s][吞吐率：25.31req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:03+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.037784s][吞吐率：26.47req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:03+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.045453s][吞吐率：22.00req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:04+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.045877s][吞吐率：21.80req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:04+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.038917s][吞吐率：25.70req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:04+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.045931s][吞吐率：21.77req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:04+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.040723s][吞吐率：24.56req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:04+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.042338s][吞吐率：23.62req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:05+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.039177s][吞吐率：25.53req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:05+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.039144s][吞吐率：25.55req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T13:26:05+08:00 ] 58.16.63.158 OPTIONS /index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=e7ba843a7173de2b458f1df8054c8d48&uid=467c9ea12dae41479b673b1be21632a5&uid=467c9ea12dae41479b673b1be21632a5 [运行时间：0.038549s][吞吐率：25.94req/s] [内存消耗：1,999.88kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:16:40+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.040829s][吞吐率：24.49req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:16:44+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.038760s][吞吐率：25.80req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:16:44+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.043859s][吞吐率：22.80req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:16:45+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.037452s][吞吐率：26.70req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:16:46+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.037502s][吞吐率：26.67req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:16:46+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.045960s][吞吐率：21.76req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:17:30+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.051724s][吞吐率：19.33req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:17:37+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.038760s][吞吐率：25.80req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:18:01+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.049072s][吞吐率：20.38req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:18:31+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.044344s][吞吐率：22.55req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:19:43+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.048822s][吞吐率：20.48req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:19:45+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.052822s][吞吐率：18.93req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:19:46+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.039107s][吞吐率：25.57req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:19:46+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.038623s][吞吐率：25.89req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T18:19:49+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=6ad308f42aebc970f0b9073bc24caabb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.040560s][吞吐率：24.65req/s] [内存消耗：1,999.77kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:20:49+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.070319s][吞吐率：14.22req/s] [内存消耗：1,999.75kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:20:53+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.044872s][吞吐率：22.29req/s] [内存消耗：1,999.75kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:20:53+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.040091s][吞吐率：24.94req/s] [内存消耗：1,999.75kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:20:54+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.041159s][吞吐率：24.30req/s] [内存消耗：1,999.75kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:20:55+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.042297s][吞吐率：23.64req/s] [内存消耗：1,999.75kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:20:55+08:00 ] 58.16.63.162 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.037889s][吞吐率：26.39req/s] [内存消耗：1,999.75kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:09+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.039229s][吞吐率：25.49req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:12+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.047759s][吞吐率：20.94req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:13+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.044933s][吞吐率：22.26req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:14+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.038011s][吞吐率：26.31req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:14+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.042680s][吞吐率：23.43req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:15+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.034629s][吞吐率：28.88req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:36+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.037845s][吞吐率：26.42req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:37+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.039906s][吞吐率：25.06req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:38+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.038950s][吞吐率：25.67req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:39+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.040182s][吞吐率：24.89req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]
+---------------------------------------------------------------
+[ 2018-06-02T22:22:39+08:00 ] 58.16.228.133 OPTIONS /index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f
+[ info ] sh.gzcjdx.cn/index.php/work/uploadAutoRename?wid=ea1f06e698a249ff8111dfbce864a2cb&uid=775bec1c69354c8d62e896636826473f&uid=775bec1c69354c8d62e896636826473f [运行时间：0.040550s][吞吐率：24.66req/s] [内存消耗：1,999.78kb] [文件加载：52]
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\web\sh\app\controller\Work.php:192]

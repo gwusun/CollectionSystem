@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2018-12-04T10:30:56+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=ffcffb44b262c9cb0960a6253d4e5f54&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=ffcffb44b262c9cb0960a6253d4e5f54&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：86.209838s][吞吐率：0.01req/s] [内存消耗：2,102.76kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-12-04T10:33:59+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=f25d81cd561e10afe39c28e9720e5d17&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=f25d81cd561e10afe39c28e9720e5d17&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：143.754248s][吞吐率：0.01req/s] [内存消耗：2,107.00kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]

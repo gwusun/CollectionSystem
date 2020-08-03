@@ -1,0 +1,20 @@
+---------------------------------------------------------------
+[ 2018-06-14T21:58:50+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=25afe8621a355801e30ff49232f04dd7&uid=4b2c2281ba70f4cbd119ad9c73332e28
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=25afe8621a355801e30ff49232f04dd7&uid=4b2c2281ba70f4cbd119ad9c73332e28 [运行时间：15.680704s][吞吐率：0.06req/s] [内存消耗：200,212.76kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 138732512 bytes)[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-06-14T22:08:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=25afe8621a355801e30ff49232f04dd7&uid=4b2c2281ba70f4cbd119ad9c73332e28
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=25afe8621a355801e30ff49232f04dd7&uid=4b2c2281ba70f4cbd119ad9c73332e28 [运行时间：11.933740s][吞吐率：0.08req/s] [内存消耗：200,212.69kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 138732512 bytes)[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-06-14T22:12:09+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=25afe8621a355801e30ff49232f04dd7&uid=4b2c2281ba70f4cbd119ad9c73332e28
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=25afe8621a355801e30ff49232f04dd7&uid=4b2c2281ba70f4cbd119ad9c73332e28 [运行时间：12.548619s][吞吐率：0.08req/s] [内存消耗：200,213.01kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 138732512 bytes)[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-06-14T23:27:38+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=8a33f5fa5f205f43074d505ef4d93d88&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=8a33f5fa5f205f43074d505ef4d93d88&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.506838s][吞吐率：0.03req/s] [内存消耗：38,917.19kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-06-14T23:27:38+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=8a33f5fa5f205f43074d505ef4d93d88&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=8a33f5fa5f205f43074d505ef4d93d88&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.394874s][吞吐率：0.03req/s] [内存消耗：69,925.21kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]

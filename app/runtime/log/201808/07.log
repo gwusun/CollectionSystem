@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-08-07T03:16:06+08:00 ] 59.36.119.226 GET /index.php/index/doing
+[ info ] sh.gzcjdx.cn/index.php/index/doing [运行时间：37.203065s][吞吐率：0.03req/s] [内存消耗：1,312.01kb] [文件加载：44]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\Db.php:50]

@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2018-11-27T13:09:20+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=df1820ce5db2666b2bffdd7b30b93d69&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=df1820ce5db2666b2bffdd7b30b93d69&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：14.782727s][吞吐率：0.07req/s] [内存消耗：266,658.90kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 119465224 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-11-27T13:10:01+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=df1820ce5db2666b2bffdd7b30b93d69&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=df1820ce5db2666b2bffdd7b30b93d69&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：11.473124s][吞吐率：0.09req/s] [内存消耗：266,658.83kb] [文件加载：56]
+[ error ] [1]Allowed memory size of 314572800 bytes exhausted (tried to allocate 119465224 bytes)[C:\web\sh\app\controller\Zip.php:138]
+---------------------------------------------------------------
+[ 2018-11-27T13:13:00+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：388.988716s][吞吐率：0.00req/s] [内存消耗：2,108.57kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]

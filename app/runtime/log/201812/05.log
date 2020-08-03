@@ -1,0 +1,574 @@
+---------------------------------------------------------------
+[ 2018-12-05T10:17:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.619730s][吞吐率：0.03req/s] [内存消耗：88,497.75kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:17:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.192407s][吞吐率：0.03req/s] [内存消耗：46,053.33kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:89]
+---------------------------------------------------------------
+[ 2018-12-05T10:17:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.292876s][吞吐率：0.03req/s] [内存消耗：46,841.34kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:17:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.416970s][吞吐率：0.03req/s] [内存消耗：46,841.38kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:17:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.242677s][吞吐率：0.03req/s] [内存消耗：47,501.75kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:17:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.475842s][吞吐率：0.03req/s] [内存消耗：45,681.27kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:112]
+---------------------------------------------------------------
+[ 2018-12-05T10:17:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.524462s][吞吐率：0.03req/s] [内存消耗：84,965.27kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:17:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.572429s][吞吐率：0.03req/s] [内存消耗：48,701.09kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:17:42+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.370909s][吞吐率：0.03req/s] [内存消耗：46,841.38kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:15+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：30.909056s][吞吐率：0.03req/s] [内存消耗：45,697.34kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:15+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.200775s][吞吐率：0.03req/s] [内存消耗：48,701.13kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+
+---------------------------------------------------------------
+[ 2018-12-05T10:18:15+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.048071s][吞吐率：0.03req/s] [内存消耗：46,841.35kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:15+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：30.959510s][吞吐率：0.03req/s] [内存消耗：84,965.28kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:15+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.127315s][吞吐率：0.03req/s] [内存消耗：46,841.39kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:15+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.316828s][吞吐率：0.03req/s] [内存消耗：45,337.17kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:15+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.438636s][吞吐率：0.03req/s] [内存消耗：86,477.38kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:47+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.081801s][吞吐率：0.03req/s] [内存消耗：84,592.95kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:47+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.050822s][吞吐率：0.03req/s] [内存消耗：84,592.99kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:47+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.253407s][吞吐率：0.03req/s] [内存消耗：84,592.95kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:47+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.272593s][吞吐率：0.03req/s] [内存消耗：84,592.95kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:47+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.273974s][吞吐率：0.03req/s] [内存消耗：84,592.91kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:47+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.250132s][吞吐率：0.03req/s] [内存消耗：45,336.77kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:212]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:47+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.336277s][吞吐率：0.03req/s] [内存消耗：45,336.77kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:212]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:47+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.363199s][吞吐率：0.03req/s] [内存消耗：45,336.70kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:212]
+---------------------------------------------------------------
+[ 2018-12-05T10:18:47+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.507360s][吞吐率：0.03req/s] [内存消耗：45,336.73kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:212]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.965324s][吞吐率：0.03req/s] [内存消耗：48,157.59kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:86]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.652373s][吞吐率：0.03req/s] [内存消耗：50,069.95kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.931313s][吞吐率：0.03req/s] [内存消耗：51,238.08kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.900555s][吞吐率：0.03req/s] [内存消耗：98,142.16kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.895072s][吞吐率：0.03req/s] [内存消耗：49,013.66kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.149045s][吞吐率：0.03req/s] [内存消耗：46,905.25kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.787363s][吞吐率：0.03req/s] [内存消耗：88,409.37kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:19+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.781678s][吞吐率：0.03req/s] [内存消耗：47,537.56kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:112]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.719056s][吞吐率：0.03req/s] [内存消耗：49,013.70kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.682991s][吞吐率：0.03req/s] [内存消耗：47,501.59kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.885255s][吞吐率：0.03req/s] [内存消耗：51,238.16kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.952083s][吞吐率：0.03req/s] [内存消耗：47,501.59kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.960858s][吞吐率：0.03req/s] [内存消耗：47,501.59kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.351054s][吞吐率：0.03req/s] [内存消耗：93,557.86kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.324254s][吞吐率：0.03req/s] [内存消耗：93,298.05kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:19:51+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.163207s][吞吐率：0.03req/s] [内存消耗：94,930.14kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:20:23+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.952571s][吞吐率：0.03req/s] [内存消耗：86,233.35kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:20:23+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.991521s][吞吐率：0.03req/s] [内存消耗：88,497.67kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:20:23+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.049144s][吞吐率：0.03req/s] [内存消耗：46,905.33kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:20:23+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.020075s][吞吐率：0.03req/s] [内存消耗：47,133.42kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:20:23+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.184753s][吞吐率：0.03req/s] [内存消耗：49,013.78kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T10:20:23+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.337811s][吞吐率：0.03req/s] [内存消耗：88,497.67kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:20:23+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.384089s][吞吐率：0.03req/s] [内存消耗：94,930.14kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T10:23:35+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：393.213743s][吞吐率：0.00req/s] [内存消耗：2,108.61kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-12-05T12:37:40+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.158663s][吞吐率：0.03req/s] [内存消耗：47,321.28kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:112]
+---------------------------------------------------------------
+[ 2018-12-05T12:37:40+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.214771s][吞吐率：0.03req/s] [内存消耗：46,905.25kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+
+---------------------------------------------------------------
+[ 2018-12-05T12:38:12+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.080715s][吞吐率：0.03req/s] [内存消耗：48,700.85kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:12+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.098112s][吞吐率：0.03req/s] [内存消耗：84,592.99kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:12+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.814288s][吞吐率：0.03req/s] [内存消耗：45,336.54kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:12+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.334882s][吞吐率：0.03req/s] [内存消耗：46,841.19kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:12+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.356531s][吞吐率：0.03req/s] [内存消耗：47,533.45kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:217]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:12+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.582745s][吞吐率：0.03req/s] [内存消耗：46,841.15kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:12+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.586026s][吞吐率：0.03req/s] [内存消耗：76,068.57kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:12+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.656102s][吞吐率：0.03req/s] [内存消耗：84,965.04kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:12+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.706750s][吞吐率：0.03req/s] [内存消耗：45,697.05kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:28+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：34.727050s][吞吐率：0.03req/s] [内存消耗：48,345.59kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:217]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:43+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.446993s][吞吐率：0.03req/s] [内存消耗：49,013.01kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:212]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:44+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.646154s][吞吐率：0.03req/s] [内存消耗：49,013.16kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:44+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.551122s][吞吐率：0.03req/s] [内存消耗：49,013.16kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:44+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.404648s][吞吐率：0.03req/s] [内存消耗：47,320.81kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:112]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:44+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.241528s][吞吐率：0.03req/s] [内存消耗：49,013.01kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:212]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:44+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.761798s][吞吐率：0.03req/s] [内存消耗：49,012.97kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:212]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:44+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.757852s][吞吐率：0.03req/s] [内存消耗：49,012.97kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:212]
+---------------------------------------------------------------
+[ 2018-12-05T12:38:47+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：35.569490s][吞吐率：0.03req/s] [内存消耗：49,873.26kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:217]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:00+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.546293s][吞吐率：0.03req/s] [内存消耗：50,649.48kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:217]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:15+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.452999s][吞吐率：0.03req/s] [内存消耗：50,385.62kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:212]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:16+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.540409s][吞吐率：0.03req/s] [内存消耗：84,964.58kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:16+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.406786s][吞吐率：0.03req/s] [内存消耗：49,013.24kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:16+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.495469s][吞吐率：0.03req/s] [内存消耗：88,497.13kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:17+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.490557s][吞吐率：0.03req/s] [内存消耗：84,964.58kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:17+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.543694s][吞吐率：0.03req/s] [内存消耗：88,809.03kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:17+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.470304s][吞吐率：0.03req/s] [内存消耗：46,840.77kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:18+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：30.807933s][吞吐率：0.03req/s] [内存消耗：88,497.48kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:32+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.582457s][吞吐率：0.03req/s] [内存消耗：50,817.98kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:217]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:47+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.435483s][吞吐率：0.03req/s] [内存消耗：52,574.23kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:48+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.592109s][吞吐率：0.03req/s] [内存消耗：51,237.98kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:50+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.634405s][吞吐率：0.03req/s] [内存消耗：49,745.65kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:51+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.697590s][吞吐率：0.03req/s] [内存消耗：88,409.30kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:52+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.136789s][吞吐率：0.03req/s] [内存消耗：86,477.07kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:52+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.023710s][吞吐率：0.03req/s] [内存消耗：49,745.70kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:53+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.794499s][吞吐率：0.03req/s] [内存消耗：90,829.59kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:39:55+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：33.097998s][吞吐率：0.03req/s] [内存消耗：49,745.69kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:40:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.712199s][吞吐率：0.03req/s] [内存消耗：50,385.89kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:40:13+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.229522s][吞吐率：0.03req/s] [内存消耗：47,501.47kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:40:19+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.894179s][吞吐率：0.03req/s] [内存消耗：51,237.62kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:40:23+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.628628s][吞吐率：0.03req/s] [内存消耗：50,385.74kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:40:24+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.255846s][吞吐率：0.03req/s] [内存消耗：94,093.73kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:40:24+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.160014s][吞吐率：0.03req/s] [内存消耗：93,297.87kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:40:24+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.986458s][吞吐率：0.03req/s] [内存消耗：51,237.98kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:40:24+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.540012s][吞吐率：0.03req/s] [内存消耗：93,297.83kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:43:43+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：402.458267s][吞吐率：0.00req/s] [内存消耗：2,108.17kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-12-05T12:49:32+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.877246s][吞吐率：0.03req/s] [内存消耗：45,337.05kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:49:32+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.488242s][吞吐率：0.03req/s] [内存消耗：86,477.13kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:04+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.504871s][吞吐率：0.03req/s] [内存消耗：88,409.33kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:04+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.315045s][吞吐率：0.03req/s] [内存消耗：88,809.46kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:04+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.234032s][吞吐率：0.03req/s] [内存消耗：47,501.48kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:05+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.243240s][吞吐率：0.03req/s] [内存消耗：90,829.69kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:05+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.447778s][吞吐率：0.03req/s] [内存消耗：49,745.76kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:05+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.278908s][吞吐率：0.03req/s] [内存消耗：90,829.65kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:05+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.335653s][吞吐率：0.03req/s] [内存消耗：90,829.65kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:05+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.422521s][吞吐率：0.03req/s] [内存消耗：49,745.80kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:36+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：32.013676s][吞吐率：0.03req/s] [内存消耗：52,233.85kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:36+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.333009s][吞吐率：0.03req/s] [内存消耗：51,921.53kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:99]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:36+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.377809s][吞吐率：0.03req/s] [内存消耗：50,553.58kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:86]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:36+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.441520s][吞吐率：0.03req/s] [内存消耗：51,237.54kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:36+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.465279s][吞吐率：0.03req/s] [内存消耗：51,237.54kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:36+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.412552s][吞吐率：0.03req/s] [内存消耗：93,297.47kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:36+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.409793s][吞吐率：0.03req/s] [内存消耗：93,297.43kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:50:36+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.634491s][吞吐率：0.03req/s] [内存消耗：52,241.67kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.747134s][吞吐率：0.03req/s] [内存消耗：51,237.62kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.747568s][吞吐率：0.03req/s] [内存消耗：52,241.71kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.654934s][吞吐率：0.03req/s] [内存消耗：49,013.20kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.598133s][吞吐率：0.03req/s] [内存消耗：90,829.19kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.665925s][吞吐率：0.03req/s] [内存消耗：93,557.28kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.919176s][吞吐率：0.03req/s] [内存消耗：93,297.47kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.897415s][吞吐率：0.03req/s] [内存消耗：49,849.45kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:86]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:08+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.677655s][吞吐率：0.03req/s] [内存消耗：93,557.28kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:39+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.585472s][吞吐率：0.03req/s] [内存消耗：50,385.79kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:39+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.575485s][吞吐率：0.03req/s] [内存消耗：93,297.87kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:39+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.452593s][吞吐率：0.03req/s] [内存消耗：50,549.73kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:112]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:39+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.556269s][吞吐率：0.03req/s] [内存消耗：93,557.64kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:39+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.386582s][吞吐率：0.03req/s] [内存消耗：88,497.45kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:39+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.674619s][吞吐率：0.03req/s] [内存消耗：50,385.75kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:39+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.421861s][吞吐率：0.03req/s] [内存消耗：50,069.84kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:51:40+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.529733s][吞吐率：0.03req/s] [内存消耗：50,385.75kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:52:11+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.659610s][吞吐率：0.03req/s] [内存消耗：52,241.99kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:52:11+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.733692s][吞吐率：0.03req/s] [内存消耗：98,142.05kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:52:11+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.638535s][吞吐率：0.03req/s] [内存消耗：52,242.07kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:52:11+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.759765s][吞吐率：0.03req/s] [内存消耗：98,142.05kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:52:11+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.662346s][吞吐率：0.03req/s] [内存消耗：98,142.05kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:52:11+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.628100s][吞吐率：0.03req/s] [内存消耗：94,929.92kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:104]
+---------------------------------------------------------------
+[ 2018-12-05T12:52:11+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.615838s][吞吐率：0.03req/s] [内存消耗：50,069.84kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:52:11+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：31.571902s][吞吐率：0.03req/s] [内存消耗：52,574.13kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\app\controller\Zip.php:87]
+---------------------------------------------------------------
+[ 2018-12-05T12:55:18+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：385.581011s][吞吐率：0.00req/s] [内存消耗：2,108.13kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-12-05T13:01:43+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：383.416441s][吞吐率：0.00req/s] [内存消耗：2,108.17kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-12-05T13:08:14+08:00 ] 58.16.63.158 GET /index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=faa80074a6092ed7d4e9242f76de44a3&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：382.167490s][吞吐率：0.00req/s] [内存消耗：2,108.09kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-12-05T19:51:14+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=a5fbb6c9cb20040db9df656699a253cb&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=a5fbb6c9cb20040db9df656699a253cb&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：36.297158s][吞吐率：0.03req/s] [内存消耗：2,106.84kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
+---------------------------------------------------------------
+[ 2018-12-05T19:57:06+08:00 ] 58.16.63.162 GET /index.php/work/downloadZip?wid=2ed404bc59b6e7ea91fb72cba817ace0&uid=93b1c65a4b6fb54dc5a198be3ff2309b
+[ info ] sh.gzcjdx.cn/index.php/work/downloadZip?wid=2ed404bc59b6e7ea91fb72cba817ace0&uid=93b1c65a4b6fb54dc5a198be3ff2309b [运行时间：94.582332s][吞吐率：0.01req/s] [内存消耗：2,106.09kb] [文件加载：56]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[C:\web\sh\vendor\topthink\framework\library\think\App.php:343]
