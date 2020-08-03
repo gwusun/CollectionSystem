@@ -14,19 +14,21 @@ RUN ssh-keygen -t rsa -P '' -f ~/.ssh/id_rsa && \
 RUN echo root|passwd --stdin root
 RUN mkdir -p /var/run/sshd && /usr/bin/ssh-keygen -A && systemctl enable sshd
 RUN sed -i 's/#ServerName www.example.com:80/ServerName 0.0.0.0:80/' /etc/httpd/conf/httpd.conf
-RUN echo "<?php phpinfo(); ?>">/var/www/html/a.php
+RUN echo "<?php phpinfo(); ?>">/var/www/html/version_php.php
 COPY / /var/www/html/
 RUN chmod 777 -R /var/www
+ENV API_IP_PORT=""
 
-
-VOLUME /mysqldata
-
-
-VOLUME /var/www/html/upload
 WORKDIR  /var/www/html
-
 RUN chmod +x init.sh
 RUN chmod +x /etc/rc.d/rc.local
 RUN echo "/var/www/html/init.sh" >> /etc/rc.d/rc.local && cat  /etc/rc.d/rc.local
+RUN yum clean all
 
+RUN mkdir -p /var/lib/mysql && chmod 777  /var/lib/mysql
+
+# 数据库持久化
+VOLUME  /var/lib/mysql/
+# 文件持久化
+VOLUME /var/www/html/upload
 ENTRYPOINT  /sbin/init

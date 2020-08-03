@@ -1,35 +1,24 @@
--- MySQL dump 10.14  Distrib 5.5.65-MariaDB, for Linux (x86_64)
---
--- Host: localhost    Database: school_homework
--- ------------------------------------------------------
--- Server version	5.5.65-MariaDB
+/*
+Navicat MySQL Data Transfer
 
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
-/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
-/*!40103 SET TIME_ZONE='+00:00' */;
-/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
-/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
-/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
-/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+Source Server         : localhost_3306
+Source Server Version : 50726
+Source Host           : localhost:3306
+Source Database       : school_homework
 
---
--- Current Database: `school_homework`
---
+Target Server Type    : MYSQL
+Target Server Version : 50726
+File Encoding         : 65001
 
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `school_homework` /*!40100 DEFAULT CHARACTER SET utf8 */;
+Date: 2020-08-03 18:41:59
+*/
 
-USE `school_homework`;
+SET FOREIGN_KEY_CHECKS=0;
 
---
--- Table structure for table `sh_admin`
---
-
+-- ----------------------------
+-- Table structure for sh_admin
+-- ----------------------------
 DROP TABLE IF EXISTS `sh_admin`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `sh_admin` (
   `pk_admin` char(32) NOT NULL,
   `fk_user` char(45) DEFAULT NULL,
@@ -38,25 +27,17 @@ CREATE TABLE `sh_admin` (
   `status` enum('able','disable','deleted') DEFAULT NULL,
   PRIMARY KEY (`pk_admin`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-/*!40101 SET character_set_client = @saved_cs_client */;
 
---
--- Dumping data for table `sh_admin`
---
+-- ----------------------------
+-- Records of sh_admin
+-- ----------------------------
+INSERT INTO `sh_admin` VALUES ('1', '1', '0', '0', 'able');
+INSERT INTO `sh_admin` VALUES ('2', '2', '0', '0', 'able');
 
-LOCK TABLES `sh_admin` WRITE;
-/*!40000 ALTER TABLE `sh_admin` DISABLE KEYS */;
-INSERT INTO `sh_admin` VALUES ('1','1',0,0,'able');
-/*!40000 ALTER TABLE `sh_admin` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
--- Table structure for table `sh_classes`
---
-
+-- ----------------------------
+-- Table structure for sh_classes
+-- ----------------------------
 DROP TABLE IF EXISTS `sh_classes`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `sh_classes` (
   `pk_classes` char(32) NOT NULL,
   `class_name` varchar(255) DEFAULT NULL COMMENT '班级名称\n',
@@ -64,25 +45,16 @@ CREATE TABLE `sh_classes` (
   `status` enum('able','disable','deleted') DEFAULT NULL,
   PRIMARY KEY (`pk_classes`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-/*!40101 SET character_set_client = @saved_cs_client */;
 
---
--- Dumping data for table `sh_classes`
---
+-- ----------------------------
+-- Records of sh_classes
+-- ----------------------------
+INSERT INTO `sh_classes` VALUES ('1', '表格收集', '0', 'able');
 
-LOCK TABLES `sh_classes` WRITE;
-/*!40000 ALTER TABLE `sh_classes` DISABLE KEYS */;
-INSERT INTO `sh_classes` VALUES ('1','表格收集',0,'able');
-/*!40000 ALTER TABLE `sh_classes` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
--- Table structure for table `sh_homeworks`
---
-
+-- ----------------------------
+-- Table structure for sh_homeworks
+-- ----------------------------
 DROP TABLE IF EXISTS `sh_homeworks`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `sh_homeworks` (
   `pk_homeworks` char(32) NOT NULL,
   `fk_classes` char(32) DEFAULT NULL,
@@ -95,24 +67,16 @@ CREATE TABLE `sh_homeworks` (
   `update_time` int(11) DEFAULT NULL,
   PRIMARY KEY (`pk_homeworks`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-/*!40101 SET character_set_client = @saved_cs_client */;
 
---
--- Dumping data for table `sh_homeworks`
---
+-- ----------------------------
+-- Records of sh_homeworks
+-- ----------------------------
+INSERT INTO `sh_homeworks` VALUES ('77351ba70a97ae7a0e90a4a3216be5a4', '1', '测试作业', 'ABC', '1596450328', '1598544000', 'sss', 'able', '1596450328');
 
-LOCK TABLES `sh_homeworks` WRITE;
-/*!40000 ALTER TABLE `sh_homeworks` DISABLE KEYS */;
-/*!40000 ALTER TABLE `sh_homeworks` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
--- Table structure for table `sh_user`
---
-
+-- ----------------------------
+-- Table structure for sh_user
+-- ----------------------------
 DROP TABLE IF EXISTS `sh_user`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `sh_user` (
   `pk_user` char(32) NOT NULL,
   `fk_class` char(32) DEFAULT NULL,
@@ -126,53 +90,28 @@ CREATE TABLE `sh_user` (
   `stu_no` varchar(45) DEFAULT NULL COMMENT '学号',
   PRIMARY KEY (`pk_user`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-/*!40101 SET character_set_client = @saved_cs_client */;
 
---
--- Dumping data for table `sh_user`
---
+-- ----------------------------
+-- Records of sh_user
+-- ----------------------------
+INSERT INTO `sh_user` VALUES ('1', '1', '20150104010225', '20150104010225', '1228746736@qq.com', '0', '0', 'able', '毛麟', '20150104010225');
+INSERT INTO `sh_user` VALUES ('2', '1', '2019021964', '2019021964', '1228746736@qq.com', '0', '0', 'able', '孙武', '2019021964');
 
-LOCK TABLES `sh_user` WRITE;
-/*!40000 ALTER TABLE `sh_user` DISABLE KEYS */;
-INSERT INTO `sh_user` VALUES ('1','1','20150104010225','20150104010225','1228746736@qq.com',0,0,'able','毛麟','20150104010225');
-INSERT INTO `sh_user` VALUES ('2','1','2019021964','2019021964','1228746736@qq.com',0,0,'able','孙武','2019021964');
-/*!40000 ALTER TABLE `sh_user` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
--- Table structure for table `sh_works_items`
---
-
+-- ----------------------------
+-- Table structure for sh_works_items
+-- ----------------------------
 DROP TABLE IF EXISTS `sh_works_items`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `sh_works_items` (
   `pk_works_items` char(32) NOT NULL,
   `fk_homeworks` char(32) DEFAULT NULL,
   `fk_user` char(32) DEFAULT NULL,
   `file_path` varchar(255) DEFAULT NULL COMMENT '文件路径',
-  `create_time` enum('able','disable','deleted') DEFAULT NULL,
+  `create_time` int(11) DEFAULT NULL,
   `update_time` int(11) DEFAULT NULL,
   PRIMARY KEY (`pk_works_items`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-/*!40101 SET character_set_client = @saved_cs_client */;
 
---
--- Dumping data for table `sh_works_items`
---
-
-LOCK TABLES `sh_works_items` WRITE;
-/*!40000 ALTER TABLE `sh_works_items` DISABLE KEYS */;
-/*!40000 ALTER TABLE `sh_works_items` ENABLE KEYS */;
-UNLOCK TABLES;
-/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
-
-/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
-/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
-/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
-
--- Dump completed on 2020-08-03  5:07:24
+-- ----------------------------
+-- Records of sh_works_items
+-- ----------------------------
+INSERT INTO `sh_works_items` VALUES ('f2b75734c2326f887f79dfd3c1ae9296', '77351ba70a97ae7a0e90a4a3216be5a4', '2', '2019021964-孙武-测试作业.txt', '1596450696', '1596450706');

@@ -12,7 +12,8 @@ const workuserapiqueryparams="?wid=" + getOneQuery() + "&uid=" + uid;
 const isDev = true;
 
 
-const host = 'http://192.168.5.220:9901/';
+// const host = 'http://192.168.5.220:9901/';
+const host = "";
 // let host = 'http://www.sh.cn';
 
 

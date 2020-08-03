@@ -9,13 +9,13 @@ t:
 	docker build -f Dockerfiletest -t ${repo}/${name}:${version} .
 
 v :
-	@echo "version ${name}:${version}"
+	@echo "${repo}/${name}:${version}"
 
 rmi:
 	docker rmi -f ${name}:${version}
 
 run:
-	docker run  -p 9000:22 -p 9901:80 -p 9902:3306  -itd --privileged  --name ${name}${version} ${repo}/${name}:${version}
+	docker run -v /collectionupload:/var/www/html/upload -v /collectiondatabase:/var/lib/mysql/  -e API_IP_PORT="192.168.5.220:9901" -p 9000:22 -p 9901:80 -p 9902:3306  -itd --privileged  --name ${name}${version} ${repo}/${name}:${version}
 
 del:
 	docker rm -f ${name}${version}

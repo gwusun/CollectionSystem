@@ -21,9 +21,7 @@ layui.define(['element', 'jquery', 'layer'], function (exports) {
                 <hr>
                 <div class="layui-footer sh-footer" >
                     <p>使用人数:${res.data.uc},使用班级:${res.data.cc}</p> 
-                    <p>申请加入、合作开发请联系QQ：1228746736</p> 
-                    <p>©2018 作业系统 by 孙武, 图表支持: 刘炳楠, 技术支持:王凡</p>
-                    <p>备案/许可证编号为 黔ICP备17001679号 </p>
+                    <p>技术支持：1228746736@qq.com</p> 
                  </div>`);
             });
 

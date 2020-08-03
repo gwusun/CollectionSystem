@@ -21,4 +21,5 @@ school_work
     > 答:后面的作业会自动覆盖前面的作业. 
 
 ## 文件说明
-addclassv2.html 需要改导入班级的ip
+addclassv2.html 改ip
+commonv2.js 改 ip

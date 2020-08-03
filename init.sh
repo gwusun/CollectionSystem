@@ -23,11 +23,11 @@ pid-file=/var/run/mariadb/mariadb.pid
 [client]
 default-character-set=utf8
 EOF
-
+/usr/libexec/mariadb-prepare-db-dir
 systemctl start mariadb.service
 systemctl start httpd.service
 mysql -uroot < /var/www/html/db2.sql
-mysql -uroot
-select * from school_homework.sh_classes;
-select * from school_homework.sh_user;
-select * from school_homework.sh_admin;
+
+sed  -i  -e "s/const host =.*/const host = '${API_IP_PORT}';/" /var/www/html/public/js/commonv2.js
+sed  -i  -e "s/YOUR_HOST/${API_IP_PORT}/" /var/www/html/public/addclassv2.html
+sed  -i  -e "s/YOUR_HOST/${API_IP_PORT}/" /var/www/html/public/importAdmin.html
