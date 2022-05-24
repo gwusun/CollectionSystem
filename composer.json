@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "topthink/framework": "5.0.15",
+        "topthink/framework": "6.0.12",
         "sunwu/errmsg":"@dev",
         "phpoffice/phpspreadsheet": "^1.1"
     }
